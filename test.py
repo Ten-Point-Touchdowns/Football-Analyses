@@ -18,7 +18,7 @@ import os # for navigating directories
 
 def main():
   # navigate to the root of the data directory
-  os.chdir('../data/reco/')
+  os.chdir('../Football-Data/reco/')
 
   ngames = 0
   winnermoretd = 0
